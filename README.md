@@ -1,7 +1,7 @@
 # ESG Modelling and Portfolio Decarbonisation
 
 This project has two parts - 
-1. ESG Modelling (formulates several hypotheses regarding relationships between independent financial variables and carbon emissions, and employes regression models to perform statistical tests to uncover the true relationships)
+1. ESG Modelling (formulates several hypotheses regarding relationships between independent financial variables and carbon emissions, and employs regression models to perform statistical tests to uncover the true relationships)
 2. Portfolio Decarbonisation (uses portfolio optimisation techniques to reduce portfolio carbon footprint while maximising returns)
 
 \
