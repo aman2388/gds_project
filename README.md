@@ -1,5 +1,11 @@
-# Portfolio Decarbonisation
+# ESG Modelling and Portfolio Decarbonisation
 
+This project has two parts - 
+1. ESG Modelling (formulates several hypotheses regarding relationships between independent financial variables and carbon emissions, and employes regression models to perform statistical tests to uncover the true relationships)
+2. Portfolio Decarbonisation (uses portfolio optimisation techniques to reduce portfolio carbon footprint while maximising returns)
+
+\
+\
 The `PortfolioDecarbonisation` class is a Python-based financial tool used for generating and analysing portfolios with decarbonisation constraints. The class includes a wide range of features such as downloading, processing, and grouping data, as well as the creation and analysis of multiple types of portfolios.
 
 ## Features
